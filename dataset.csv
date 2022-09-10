@@ -1,0 +1,241 @@
+Patient,Disease,Symptom_1,Symptom_2,Symptom_3,Symptom_4,Symptom_5,Symptom_6,Symptom_7,Symptom_8,Symptom_9,Symptom_10,Column1
+Patient 1,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,,,,
+Patient 2,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 3,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 4,Malaria, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 5,Malaria, chills, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 6,Malaria, chills, vomiting, sweating, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 7,Malaria, chills, vomiting, high_fever, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 8,Malaria, chills, vomiting, high_fever, sweating, nausea, diarrhoea, muscle_pain,,,,
+Patient 9,Malaria, chills, vomiting, high_fever, sweating, headache, diarrhoea, muscle_pain,,,,
+Patient 10,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,,,,
+Patient 11,Typhoid, chills, vomiting, fatigue, high_fever, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 12,Typhoid, chills, vomiting, fatigue, high_fever, headache, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 13,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 14,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 15,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, toxic_look_(typhos), belly_pain,
+Patient 16,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, belly_pain,
+Patient 17,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos),
+Patient 18,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 19,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 20,Typhoid, chills, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 21,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,,,,
+Patient 22,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 23,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 24,Malaria, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 25,Malaria, chills, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 26,Malaria, chills, vomiting, sweating, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 27,Malaria, chills, vomiting, high_fever, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 28,Malaria, chills, vomiting, high_fever, sweating, nausea, diarrhoea, muscle_pain,,,,
+Patient 29,Malaria, chills, vomiting, high_fever, sweating, headache, diarrhoea, muscle_pain,,,,
+Patient 30,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,,,,
+Patient 31,Typhoid, chills, vomiting, fatigue, high_fever, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 32,Typhoid, chills, vomiting, fatigue, high_fever, headache, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 33,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 34,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 35,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, toxic_look_(typhos), belly_pain,
+Patient 36,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, belly_pain,
+Patient 37,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos),
+Patient 38,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 39,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 40,Typhoid, chills, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 41,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,,,,
+Patient 42,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 43,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 44,Malaria, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 45,Malaria, chills, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 46,Malaria, chills, vomiting, sweating, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 47,Malaria, chills, vomiting, high_fever, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 48,Malaria, chills, vomiting, high_fever, sweating, nausea, diarrhoea, muscle_pain,,,,
+Patient 49,Malaria, chills, vomiting, high_fever, sweating, headache, diarrhoea, muscle_pain,,,,
+Patient 50,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,,,,
+Patient 51,Typhoid, chills, vomiting, fatigue, high_fever, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 52,Typhoid, chills, vomiting, fatigue, high_fever, headache, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 53,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 54,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 55,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, toxic_look_(typhos), belly_pain,
+Patient 56,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, belly_pain,
+Patient 57,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos),
+Patient 58,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 59,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 60,Typhoid, chills, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 61,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,,,,
+Patient 62,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 63,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 64,Malaria, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 65,Malaria, chills, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 66,Malaria, chills, vomiting, sweating, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 67,Malaria, chills, vomiting, high_fever, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 68,Malaria, chills, vomiting, high_fever, sweating, nausea, diarrhoea, muscle_pain,,,,
+Patient 69,Malaria, chills, vomiting, high_fever, sweating, headache, diarrhoea, muscle_pain,,,,
+Patient 70,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,,,,
+Patient 71,Typhoid, chills, vomiting, fatigue, high_fever, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 72,Typhoid, chills, vomiting, fatigue, high_fever, headache, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 73,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 74,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 75,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, toxic_look_(typhos), belly_pain,
+Patient 76,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, belly_pain,
+Patient 77,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos),
+Patient 78,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 79,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 80,Typhoid, chills, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 81,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,,,,
+Patient 82,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 83,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 84,Malaria, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 85,Malaria, chills, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 86,Malaria, chills, vomiting, sweating, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 87,Malaria, chills, vomiting, high_fever, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 88,Malaria, chills, vomiting, high_fever, sweating, nausea, diarrhoea, muscle_pain,,,,
+Patient 89,Malaria, chills, vomiting, high_fever, sweating, headache, diarrhoea, muscle_pain,,,,
+Patient 90,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,,,,
+Patient 91,Typhoid, chills, vomiting, fatigue, high_fever, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 92,Typhoid, chills, vomiting, fatigue, high_fever, headache, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 93,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 94,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 95,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, toxic_look_(typhos), belly_pain,
+Patient 96,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, belly_pain,
+Patient 97,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos),
+Patient 98,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 99,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 100,Typhoid, chills, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 101,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,,,,
+Patient 102,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 103,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 104,Malaria, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 105,Malaria, chills, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 106,Malaria, chills, vomiting, sweating, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 107,Malaria, chills, vomiting, high_fever, headache, nausea, diarrhoea, muscle_pain,,,,
+Patient 108,Malaria, chills, vomiting, high_fever, sweating, nausea, diarrhoea, muscle_pain,,,,
+Patient 109,Malaria, chills, vomiting, high_fever, sweating, headache, diarrhoea, muscle_pain,,,,
+Patient 110,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,,,,
+Patient 111,Typhoid, chills, vomiting, fatigue, high_fever, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 112,Typhoid, chills, vomiting, fatigue, high_fever, headache, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 113,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 114,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 115,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, toxic_look_(typhos), belly_pain,
+Patient 116,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, belly_pain,
+Patient 117,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos),
+Patient 118,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 119,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 120,Typhoid, chills, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,
+Patient 121,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 122,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 123,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 124,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 125,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 126,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 127,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 128,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 129,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 130,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 131,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 132,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 133,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 134,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 135,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 136,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 137,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 138,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 139,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 140,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 141,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 142,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 143,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 144,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 145,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 146,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 147,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 148,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 149,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 150,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 151,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 152,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 153,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 154,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 155,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 156,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 157,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 158,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 159,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 160,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 161,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 162,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 163,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 164,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 165,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 166,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 167,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 168,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 169,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 170,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 171,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 172,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 173,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 174,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 175,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 176,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 177,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 178,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 179,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 180,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 181,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 182,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 183,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 184,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 185,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 186,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 187,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 188,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 189,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 190,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 191,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 192,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 193,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 194,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 195,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 196,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 197,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 198,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 199,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 200,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 201,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 202,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 203,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 204,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 205,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 206,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 207,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 208,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 209,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 210,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 211,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 212,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 213,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 214,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 215,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 216,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 217,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 218,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 219,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 220,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 221,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 222,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 223,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 224,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 225,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 226,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 227,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 228,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 229,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 230,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 231,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 232,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 233,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 234,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 235,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 236,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 237,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 238,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
+Patient 239,Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,
+Patient 240,Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain
